@@ -1,0 +1,33 @@
+{
+  "patients": [
+    {
+      "patientId": "P-Y8_nApJnhS",
+      "name": "Nimal Perera",
+      "nic": "200012345678",
+      "dateOfBirth": "2000-02-23",
+      "age": 26,
+      "address": "12, Main Street, Colombo",
+      "previousCaseHistory": [
+        "Asthma"
+      ],
+      "addressHistory": [],
+      "createdAt": "2026-02-23T14:57:53.211Z",
+      "updatedAt": "2026-02-23T14:57:53.211Z"
+    }
+  ],
+  "appointments": [
+    {
+      "appointmentId": "A-6sWkrlGnzk",
+      "patientId": "P-Y8_nApJnhS",
+      "date": "2026-02-23",
+      "time": "10:00",
+      "durationMinutes": 30,
+      "doctorName": "Dr Silva",
+      "status": "canceled",
+      "createdAt": "2026-02-23T14:58:10.918Z",
+      "updatedAt": "2026-02-23T14:58:59.057Z",
+      "canceledAt": "2026-02-23T14:58:59.056Z",
+      "cancelReason": "Patient unavailable"
+    }
+  ]
+}

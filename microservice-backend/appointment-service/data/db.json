@@ -1,0 +1,16 @@
+{
+  "appointments": [
+    {
+      "appointmentId": "A-uxHrAlCmRd",
+      "patientId": "P-j-H9AWd1b7",
+      "date": "2026-02-23",
+      "time": "09:30",
+      "durationMinutes": 30,
+      "doctorName": "Dr Silva",
+      "status": "scheduled",
+      "createdAt": "2026-02-23T15:22:19.933Z",
+      "updatedAt": "2026-02-23T15:22:19.933Z",
+      "canceledAt": null
+    }
+  ]
+}

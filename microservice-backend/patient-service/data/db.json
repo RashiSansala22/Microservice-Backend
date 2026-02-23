@@ -1,0 +1,18 @@
+{
+  "patients": [
+    {
+      "patientId": "P-j-H9AWd1b7",
+      "name": "Test Patient",
+      "nic": "NIC1637508061",
+      "dateOfBirth": "2001-01-01",
+      "age": 25,
+      "address": "Colombo",
+      "previousCaseHistory": [
+        "None"
+      ],
+      "addressHistory": [],
+      "createdAt": "2026-02-23T15:22:19.849Z",
+      "updatedAt": "2026-02-23T15:22:19.849Z"
+    }
+  ]
+}
